@@ -5,7 +5,7 @@
 
 <object data="http://www.mmmut.ac.in/edboard/" width="700px" height="700px">
     <embed src="http://www.mmmut.ac.in/edboard/ ">
-   <p><b>Note:</b> To viw the live website please:-  <a href="http://www.mmmut.ac.in/edboard/ ">Click here</a>.</p>
+   <p><b>Note:</b> To view the live website please:-  <a href="http://www.mmmut.ac.in/edboard/ ">Click here</a>.</p>
     </embed>
    </object>
   
