@@ -8,3 +8,7 @@
    <p><b>Note:</b> To viw the live website please:-  <a href="http://www.mmmut.ac.in/edboard/ ">Click here</a>.</p>
     </embed>
    </object>
+   
+   <p>An iframe with default borders:</p>
+<iframe src="/default.asp" width="100%" height="300">
+</iframe>
